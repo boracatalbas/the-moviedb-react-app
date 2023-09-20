@@ -1,0 +1,14 @@
+.layout {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  .navbar {
+    height: 10vh;
+  }
+  .content {
+    height: 80vh;
+  }
+  .footer {
+    height: 45.5vh;
+  }
+}
