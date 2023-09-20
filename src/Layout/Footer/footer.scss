@@ -1,0 +1,31 @@
+.footer {
+  background-color: #031f38;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .left {
+    text-align: right;
+    display: block;
+    margin: 10vw;
+
+    img {
+      height: 13vh;
+      margin-bottom: 6vh;
+    }
+    .community-button {
+      border-radius: 10%;
+      button {
+        color: #01b4e4;
+        font-size: 1.3rem;
+        padding: 1vh;
+      }
+    }
+  }
+  .right {
+    display: flex;
+    color: white;
+  }
+  .title {
+  }
+}
